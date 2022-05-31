@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on app
-- 📫 You can reach me on facebook: https://facebook.com/oto.elbakidze13
+- 📫 You can reach me on discord: Otar#0001
 
 <!---
 otar105/otar105 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
